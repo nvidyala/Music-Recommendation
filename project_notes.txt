@@ -1,0 +1,30 @@
+Jan 06
+------------------
+
+- This is my jam dataset w/ mappings to MSD
+https://archive.org/details/thisismyjam-datadump
+
+- Echo Nest Taste profile subset
+https://labrosa.ee.columbia.edu/millionsong/tasteprofile
+
+
+Jan 15
+------------------
+
+- Feature set for content-based: MFCC
+- https://github.com/jameslyons/python_speech_features
+- Spotify API wrapper: https://github.com/plamere/spotipy
+
+
+Jan 16
+------------------
+
+- Created spotify_feature_analysis.py
+- Performed PCA on songs from 3 artists (2 similar, 1 different), graphed results with 2 features
+- Normal audio features not sufficient
+
+
+Jan 17
+------------------
+
+- Extract 
